@@ -1,7 +1,7 @@
 # Ajit Srikanth
 I'm a pre-final year (hopefully) Btech + MS by research in Electronics and Communication Engineering student at IIIT-Hyderabad. I'm an undergraduate researcher at Robotics Research Center (RRC) @ IIIT-Hyderabad, advised by Prof K. Madhava Krishna.
 
-This is my new github (from Dec 2024), however I have a small script which has pushed some version of my older projects as well (it has a clever algorithm to push, ask me about it).
+This is my new github (from Dec 2024), however I have a small script which has pushed some version of my older projects as well.
 
 ###  here from my old github?
 well well well, I've been expecting you. Feel free to use those repos, do let me know how you found it ~~stalker~~.
